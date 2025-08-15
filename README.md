@@ -9,7 +9,6 @@ Includes **Firebase Authentication** with role separation (**Viewer** & **Admin*
 
 [🔗 View Live Project](https://globex-mart-pro.netlify.app/)
 
-*(Replace with your deployed project link.)*
 
 ---
 
@@ -34,7 +33,7 @@ It allows businesses to keep track of product data in real-time with Firebase as
 - ⚡ **Real-Time Database** with Firebase
 - 🗄 **Redux Toolkit** for centralized state management
 - 🎨 Responsive UI built with modern React best practices
-- ⚙️ Easy deployment on hosting platforms like Netlify, Vercel, or Firebase Hosting
+- ⚙️ Easy deployment on hosting platform Netlify.
 
 ---
 
